@@ -1,4 +1,6 @@
-### Olá! eu sou o Lucas, e estou estudando programação.👋
+Hello World ☕
+### Eu sou o Lucas, e estou estudando programação.
+
 ##
 
 <div align="center">
