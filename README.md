@@ -1,7 +1,7 @@
 Hello World ☕
 ### Eu sou o Lucas, e estou estudando programação.
 
-Atualmente estou utilizando HTML, CSS, JavaScript, Git / GitHub
+Atualmente estou utilizando HTML, CSS, JavaScript, React, Git / GitHub
 
 Você pode me contatar através do meu email: lucas844@outlook.com.br
 
