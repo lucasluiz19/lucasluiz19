@@ -1,5 +1,5 @@
 Hello World ☕
-### Eu sou o Lucas, e estou estudando programação.
+### Eu sou o Lucas, Desenvolvedor Front-end.
 
 Atualmente estou utilizando HTML, CSS, JavaScript, React, TypeScript, Git / GitHub
 
